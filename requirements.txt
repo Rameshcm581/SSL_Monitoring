@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+python-jose[cryptography]
+bcrypt
+anyio
+httpx
+apscheduler
+sendgrid
+stripe
+python-multipart
+pylint
